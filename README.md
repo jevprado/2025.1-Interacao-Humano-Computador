@@ -3,4 +3,6 @@
 
 Teste repositorio! 
 
+Teste de commit usando o WLS2 
+
 **123456789**
